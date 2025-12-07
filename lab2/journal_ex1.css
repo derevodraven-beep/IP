@@ -4,15 +4,15 @@ body {
 }
 
 #container {
-    border: 5px green solid;
+    border: 10px solid white;
     background-color: white;
     margin: 0 10%;
-    background-repeat: repeat;
     box-sizing: border-box;
 }
 
 .entry {
-    border: 5px blue solid;
+    border: 4px solid #C2E9E9;
+    border-radius: 15px;
     background-color: #E8FBFB;
     padding: 5px;
     margin-top: 10px;
@@ -20,15 +20,20 @@ body {
 }
 
 .date {
-    border: 5px purple solid;
+    border-bottom: 2px dashed blue;
+    border-top: none;
+    border-left: none;
+    border-right: none;
 }
 
 #header {
-    border: 5px red solid;
+    background-color: #A8F0F0;
+    border: none;
 }
 
 #header h2 {
-    border: 5px orange solid;
+    font-size: 14pt;
+    border: none;
     float: right;
 }
 
@@ -46,4 +51,3 @@ body {
 .entry {
     overflow: hidden;
 }
-
