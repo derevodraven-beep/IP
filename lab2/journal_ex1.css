@@ -52,4 +52,8 @@ body {
 .entry {
     overflow: hidden;
 }
+.footer-links {
+    margin: 0 10%;
+    padding: 10px 0;
+}
 
