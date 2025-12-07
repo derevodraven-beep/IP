@@ -6,7 +6,7 @@ body {
     border: 5px green solid;
     background-color: white;
     margin: 0 10%;
-    background-image: url(image/background.gif);
+    background-image: url(background.gif);
     background-repeat: repeat;
     box-sizing: border-box;
 }
@@ -16,6 +16,7 @@ body {
     background-color: #E8FBFB;
     padding: 5px;
     margin-top: 10px;
+    text-align: justify;
 }
 
 .date {
@@ -28,5 +29,20 @@ body {
 
 #header h2 {
     border: 5px orange solid;
+    float: right;
 }
 
+#header {
+    overflow: hidden;
+}
+
+.entry img {
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    max-width: 100%;
+}
+
+.entry {
+    overflow: hidden;
+}
