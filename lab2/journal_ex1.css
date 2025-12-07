@@ -1,12 +1,12 @@
 body {
     margin: 0;
+    background-image: url(image/background.gif);
 }
 
 #container {
     border: 5px green solid;
     background-color: white;
     margin: 0 10%;
-    background-image: url(background.gif);
     background-repeat: repeat;
     box-sizing: border-box;
 }
@@ -46,3 +46,4 @@ body {
 .entry {
     overflow: hidden;
 }
+
