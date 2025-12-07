@@ -1,15 +1,31 @@
+body {
+    margin: 0;
+}
+
 #container {
-	border: 5px green solid;
+    border: 5px green solid;
+    background-color: white;
+    margin: 0 10%;
+    background-image: url(background.gif);
+    background-repeat: repeat;
+    box-sizing: border-box;
 }
-.date {
-	border: 5px purple solid;
-}
+
 .entry {
-	border: 5px blue solid;
+    border: 5px blue solid;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
 }
+
+.date {
+    border: 5px purple solid;
+}
+
 #header {
-	border: 5px red solid;
+    border: 5px red solid;
 }
+
 #header h2 {
-	border: 5px orange solid;
+    border: 5px orange solid;
 }
