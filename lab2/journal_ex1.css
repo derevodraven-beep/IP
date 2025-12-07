@@ -6,7 +6,7 @@ body {
     border: 5px green solid;
     background-color: white;
     margin: 0 10%;
-    background-image: url(background.gif);
+    background-image: url(image/background.gif);
     background-repeat: repeat;
     box-sizing: border-box;
 }
@@ -29,3 +29,4 @@ body {
 #header h2 {
     border: 5px orange solid;
 }
+
