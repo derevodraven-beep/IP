@@ -1,20 +1,20 @@
 body{
 	font-family: "Trebuchet","Verdana", sans-serif;
-	background-color: #b6e1fc;
+	background-color: #2470ad;
 	width: 500px
 }
 h1, h2 {
-	color: #ff6161;
+	color: #013220;
 }
 
 h1 {
 	font-size:40pt;
 }
 strong {
-	color: #FFF86B;
+	color: #ffbf29;
 }
 a {
-	color: #FF4F88;
+	color: #ffbf29;
 }
 
 //гиперссылка отключаем подчеркивание
